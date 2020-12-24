@@ -1,0 +1,7 @@
+login + register 
+Session['superadmin','empleado','invitado']
+phpmailer y encuesta['all']			//listo
+ver api ['all'] 				//listo
+llenar api ['admin','empleado']
+todolist['admin','empleado']
+register de admin
