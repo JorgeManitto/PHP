@@ -1,0 +1,1 @@
+[{"items":[{"id":1,"nombre":"Avenger Infinty War","imagen":"poster01"},{"id":2,"nombre":"Jurassic World","imagen":"poster02"},{"id":3,"nombre":"Solo","imagen":"poster03"}]}]
